@@ -1,3 +1,4 @@
 [submodule "meta-flatpak"]
 	path = meta-flatpak
 	url = git@github.com:klihub/meta-flatpak.git
+	ignore = untracked
